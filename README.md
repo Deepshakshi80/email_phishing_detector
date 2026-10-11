@@ -2,6 +2,8 @@
 
 A full-stack machine learning application that predicts whether an email is **phishing** or **legitimate** based on 8 extracted text and link features.
 
+**Live Demo**
+🔗 https://emailphishingdetector-vjq8tplkmfffqjcktc2rm5.streamlit.app/
 ---
 
 ## 📁 Project Structure
